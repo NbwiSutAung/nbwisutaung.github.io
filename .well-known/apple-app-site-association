@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "S5UBLL52V7.com.nbwi.gamung"
+        ],
+        "components": [
+          {
+            "/": "/gamung-website/open.html",
+            "?": {
+              "l": "?*"
+            },
+            "comment": "Shared Gămung links open in the app"
+          }
+        ]
+      }
+    ]
+  }
+}
