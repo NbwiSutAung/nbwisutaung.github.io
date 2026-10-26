@@ -6,7 +6,9 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.nbwi.gamung",
-      "sha256_cert_fingerprints": []
+      "sha256_cert_fingerprints": [
+        "D3:6F:D3:7B:A0:F3:1F:84:1A:C1:0D:00:A4:35:4F:0D:DB:8E:5A:0A:59:E1:D8:68:A1:80:7C:8F:E0:93:E9:8F"
+      ]
     }
   }
 ]
